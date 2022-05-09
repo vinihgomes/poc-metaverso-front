@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f4904a3f-497a-4f05-9f6d-d300324cf62a/resourceGroups/poc_metaverso/providers/Microsoft.Web/sites/poc-metaverso",
+    "appService.deploySubpath": "."
+}
