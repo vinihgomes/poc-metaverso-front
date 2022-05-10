@@ -5,7 +5,8 @@
       "send": "Enviar",
       "people": "Personas",
       "name_label": "Nombre",
-      "address_label": "Dirección"
+      "address_label": "Dirección",
+      "name_input": "Nombre da persona"
     },
     "change_language": {
       "portuguese": "Portugués",

@@ -5,7 +5,8 @@
       "send": "Send",
       "people": "People",
       "name_label": "Name",
-      "address_label": "Address"
+      "address_label": "Address",
+      "name_input": "Person name"
     },
     "change_language": {
       "portuguese": "Portuguese",
